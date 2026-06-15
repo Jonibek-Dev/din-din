@@ -75,7 +75,7 @@ Visit `http://localhost:port in your browser to start chatting!
 
 ## 📸 Screenshots
 
-![[image (1).png]]
+![image](https://github.com/Jonibek-Dev/din-din/blob/main/image.png)
 
 ---
 *Created with ✨ by din-din*
